@@ -46,16 +46,6 @@ Answer
 
 ---
 
-## Prerequisites
-
-You need **3 things** installed on your Windows laptop:
-
-1. **Python 3.10+**
-2. **Git**
-3. **Ollama** (runs the local AI models)
-
----
-
 ## Step-by-Step Setup (Windows)
 
 ### Step 1 — Install Python
